@@ -3,7 +3,7 @@
 
 ## Screenshot
 
-![Home Screenshot](./home.png?raw=true "Home Page")
+![Screenshot](./screenshot.png?raw=true "screenshot")
 
 
 ## Features
