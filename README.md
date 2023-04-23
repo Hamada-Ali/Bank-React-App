@@ -49,4 +49,4 @@ Start the server ( The App run on Vite )
 
 ## Live Preview :
 
-- [App_Preview](https://restaurant-app-f6f44.web.app/)
+- [App_Preview](https://hoobank-19e27.firebaseapp.com//)
